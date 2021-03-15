@@ -2,16 +2,19 @@ h1 {
     font-size: 50px;
     margin-top: 20px;
     margin-bottom: 0px;
+    margin-left: 5px;
 }
 
 #scritto_da {
     color: #898989;
     font-size: 20px;
+    margin-left: 5px;
 }
 
 #data {
     color: #898989;
     font-size: 15px;
+    margin-left: 5px;
 }
 
 #evid_celeste{
@@ -20,9 +23,37 @@ h1 {
 
 #tim_photo{
     margin-top: 25px;
+    margin-left: 5px;
+}
+
+#tim_uno{
+    width: 1000px;
+    height: 700px;
+}
+
+#tim_due{
+    width: 900px;
+    height: 700px;
 }
 
 #underphoto{
     color: #4b4a4a;
     font-size: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.paragrafo {
+    font-size: 18px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#sfondogiallo{
+    background-color: #ffff00;
+}
+
+#lista_ul {
+    font-size: 18px;
+    margin-top: 30px;
 }
