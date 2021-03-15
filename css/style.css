@@ -47,9 +47,10 @@ h1 {
     font-size: 18px;
     margin-left: 5px;
     margin-right: 5px;
+    margin-bottom: 30px;
 }
 
-#sfondogiallo{
+.sfondogiallo{
     background-color: #ffff00;
 }
 
@@ -60,19 +61,31 @@ h1 {
 }
 
 table {
+    text-align: left;
     font-size: 18px;
     border-collapse: collapse;
     margin-left: 5px;
-    
-
 }
 
 
 thead{
     background-color: #20a9e5;
     text-align: left;
+    color: #ffffff;
 }
 
 .primaterzariga {
     background-color: #b1e5f2;
+}
+
+h4 {
+    margin-left: 5px;
+    color: #808080;
+}
+
+td{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    text-align: left;
 }
