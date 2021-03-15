@@ -1,0 +1,28 @@
+h1 {
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+#scritto_da {
+    color: #898989;
+    font-size: 20px;
+}
+
+#data {
+    color: #898989;
+    font-size: 15px;
+}
+
+#evid_celeste{
+    color: #33b0e7;
+}
+
+#tim_photo{
+    margin-top: 25px;
+}
+
+#underphoto{
+    color: #4b4a4a;
+    font-size: 12px;
+}
