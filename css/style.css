@@ -56,4 +56,23 @@ h1 {
 #lista_ul {
     font-size: 18px;
     margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+table {
+    font-size: 18px;
+    border-collapse: collapse;
+    margin-left: 5px;
+    
+
+}
+
+
+thead{
+    background-color: #20a9e5;
+    text-align: left;
+}
+
+.primaterzariga {
+    background-color: #b1e5f2;
 }
